@@ -1,0 +1,31 @@
+{
+    "enabled": true,
+    "brand_title": "Game Development Showcase",
+    "tagline": "test",
+    "description": "",
+    "copyright_name": "Game Development Showcase",
+    "author": "Michael Rhein",
+    "contact_email": "michael@gamedevshow.de",
+    "links_title": "Navigation",
+    "show_navigation": true,
+    "legal_title": "Additional Links",
+    "legal_links": [
+        {
+            "label": "Static Zone",
+            "url": "https:\/\/www.staticzone.de"
+        }
+    ],
+    "social_title": "Follow",
+    "socials": {
+        "youtube": "",
+        "x": "https:\/\/www.staticzone.de",
+        "instagram": "",
+        "facebook": "",
+        "tiktok": "",
+        "discord": "",
+        "steam": "",
+        "itch": "",
+        "github": "",
+        "twitch": ""
+    }
+}

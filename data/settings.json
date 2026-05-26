@@ -1,0 +1,13 @@
+{
+    "site_title": "Super Cowboy",
+    "site_description": "Hero of the Wild West",
+    "favicon_standard": "/assets/uploads/favicon_standard-1779581302.png",
+    "favicon_svg": "/assets/uploads/favicon_svg-1779581302.svg",
+    "favicon_ico": "/assets/uploads/favicon_ico-1779581302.ico",
+    "favicon_apple": "/assets/uploads/favicon_apple-1779581302.png",
+    "favicon_manifest": "/assets/img/site.webmanifest",
+    "header_logo": "/assets/uploads/header_logo-1779580819.png",
+    "header_name": "Super Cowboy",
+    "active_theme": "orange",
+    "show_credit_link": false
+}

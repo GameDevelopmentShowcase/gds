@@ -1,0 +1,22 @@
+[
+    {
+        "id": "devlog_1779745793936",
+        "date": "2026-05-25",
+        "title": "My second Devlog",
+        "category": "General",
+        "excerpt": "",
+        "body": ":=))",
+        "image": "",
+        "published": true
+    },
+    {
+        "id": "devlog_6a1367f7ea631670267726",
+        "date": "2026-05-24",
+        "title": "My first Devlog",
+        "category": "General",
+        "excerpt": "from Hero of the Wild West",
+        "body": "Hello :=)",
+        "image": "",
+        "published": true
+    }
+]

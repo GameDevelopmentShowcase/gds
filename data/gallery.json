@@ -1,0 +1,32 @@
+[
+    {
+        "id": "shot_1779744759093",
+        "image": "assets\/screenshots\/shot_1779744772_0.png",
+        "alt": "Demo Screenshot 5",
+        "featured": false
+    },
+    {
+        "id": "shot_1779744752214",
+        "image": "assets\/screenshots\/shot_1779744772_1.jpg",
+        "alt": "Demo Screenshot 4",
+        "featured": false
+    },
+    {
+        "id": "shot_1779744743830",
+        "image": "assets\/screenshots\/shot_1779744772_2.jpg",
+        "alt": "Demo Screenshot 3",
+        "featured": true
+    },
+    {
+        "id": "shot_1779744734101",
+        "image": "assets\/screenshots\/shot_1779744772_3.jpg",
+        "alt": "Demo Screenshot 2",
+        "featured": false
+    },
+    {
+        "id": "shot_1779744703854",
+        "image": "assets\/screenshots\/shot_1779744772_4.jpg",
+        "alt": "Demo Screenshot 1",
+        "featured": false
+    }
+]
